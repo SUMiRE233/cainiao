@@ -1,0 +1,12 @@
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/cainiao.dir
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/cainiao_lupdate.dir
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/update_translations.dir
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/cainiao_lrelease.dir
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/release_translations.dir
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/cainiao_autogen_timestamp_deps.dir
+C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/cainiao_autogen.dir

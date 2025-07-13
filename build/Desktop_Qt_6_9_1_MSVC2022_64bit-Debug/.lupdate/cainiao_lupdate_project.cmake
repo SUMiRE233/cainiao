@@ -1,0 +1,11 @@
+set(lupdate_project_file "C:/Users/SUMiRE/Desktop/cainiao/CMakeLists.txt")
+set(lupdate_translations "C:/Users/SUMiRE/Desktop/cainiao/cainiao_zh_CN.ts")
+set(lupdate_include_paths "")
+set(lupdate_sources "")
+set(lupdate_subproject_count 1)
+
+set(lupdate_subproject1_source_dir "C:/Users/SUMiRE/Desktop/cainiao")
+set(lupdate_subproject1_include_paths "C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/cainiao_autogen/include;C:/Qt/6.9.1/msvc2022_64/include/QtCore;C:/Qt/6.9.1/msvc2022_64/include;C:/Qt/6.9.1/msvc2022_64/mkspecs/win32-msvc;C:/Qt/6.9.1/msvc2022_64/include;C:/Qt/6.9.1/msvc2022_64/include/QtWidgets;C:/Qt/6.9.1/msvc2022_64/include;C:/Qt/6.9.1/msvc2022_64/include/QtGui;C:/Qt/6.9.1/msvc2022_64/include")
+set(lupdate_subproject1_sources "C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/cainiao_autogen/mocs_compilation.cpp;main.cpp;mainwindow.cpp;mainwindow.h;mainwindow.ui;C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/.qt/rcc/cainiao_translations.qrc;C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/cainiao_zh_CN.qm;C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/.qt/rcc/qrc_cainiao_translations.cpp;C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/cainiao_autogen/include/ui_mainwindow.h;C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/cainiao_autogen/timestamp;C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/cainiao_zh_CN.qm.rule;C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/.qt/rcc/qrc_cainiao_translations.cpp.rule;C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/cainiao_autogen/timestamp.rule")
+set(lupdate_subproject1_excluded "")
+set(lupdate_subproject1_autogen_dir "C:/Users/SUMiRE/Desktop/cainiao/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/cainiao_autogen")
