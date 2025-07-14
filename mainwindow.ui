@@ -13,7 +13,41 @@
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
-  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QWidget" name="centralwidget">
+    <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+        <widget class="QPushButton" name="btnLoadMap">
+          <property name="text">
+            <string>加载地图</string>
+          </property>
+        </widget>
+      </item>
+      <item>
+        <widget class="QPushButton" name="btnLoadPackages">
+          <property name="text">
+            <string>加载包裹</string>
+          </property>
+        </widget>
+      </item>
+      <item>
+        <widget class="QPushButton" name="btnCalculate">
+          <property name="text">
+            <string>计算路径</string>
+          </property>
+        </widget>
+      </item>
+      <item>
+        <widget class="QPushButton" name="btnDisplay">
+          <property name="text">
+            <string>显示结果</string>
+          </property>
+        </widget>
+      </item>
+      <item>
+        <widget class="QTextEdit" name="txtResult"/>
+      </item>
+    </layout>
+  </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
